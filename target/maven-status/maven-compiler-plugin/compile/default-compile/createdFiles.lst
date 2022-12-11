@@ -1,0 +1,5 @@
+com\mycompany\movie\Products.class
+com\mycompany\movie\RatingComparator.class
+com\mycompany\movie\repository\MovieRepository.class
+com\mycompany\movie\Movie.class
+com\mycompany\movie\service\MovieService.class
